@@ -2,3 +2,5 @@
 ##Contacts
 *Discord: Ivan Khrabrov (FeverDream)
 *Email: ihrabrov@yandex.ru
+##Work experience
++2023 - : Training Data - AI model training
