@@ -5,13 +5,12 @@
 * Github: feverdreamm
 * Telegram: fever_dreamm
 * Email: ihrabrov@yandex.ru
-## Summary
+## About me
 text
 ## Skills
 * HTML5
-* CSS
+* CSS/Sass
 * JavaScript
-* Sass
 * GIT
 * Figma
 ## Education
@@ -19,5 +18,5 @@ text
 * JS/FE
 ## Code
 code
-## Projects
-pro
+## English
+С1 Advanced
